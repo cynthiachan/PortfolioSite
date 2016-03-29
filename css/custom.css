@@ -1,0 +1,69 @@
+#intro-bg {
+	background-image: url('../images/nyc.jpg');
+	background-size:cover;
+	opacity:.85;
+
+}
+
+#intro-jumbo {
+background-color: rgba(255, 255, 255, 0.5);
+}
+
+.carousel-indicators {
+ margin-top:-10px;
+ 	}
+
+
+#Portfolio {
+background-color:#4c4ca6;
+}
+
+#About hr{
+	margin-top:40px;
+}
+#Portfolio hr{
+margin-top:40px;
+}
+
+#Experience hr {
+	margin-top:40px;
+}
+
+#Contact {
+
+	 background: linear-gradient(135deg, #9370DB, red 50%, blue);
+	 opacity:.9;
+
+}
+
+#Contact h2 {
+	color:white;font-family:'Open Sans', sans-serif;
+}
+
+#Contact p {
+	color:white; font-family:'Open Sans', sans-serif;
+}
+
+#Contact hr{
+	margin-top:40px;
+
+
+}
+
+#brand a:hover {
+
+	 background-color:#8FD8D8;
+
+}
+
+#brand.active a{
+
+}
+
+#main-nav a:hover{
+	  background-color:#8FD8D8;
+}
+
+#main-nav .active > a{
+
+}
